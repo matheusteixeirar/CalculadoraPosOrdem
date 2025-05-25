@@ -3,5 +3,5 @@
 
 - Vídeos
 
-Explicação passo a passo do projeto (YouTube) - https://youtu.be/T2uqhRZ8Avo
+Explicação passo a passo do projeto (YouTube) - https://youtu.be/T2uqhRZ8Avo  
 Demonstração do funcionamento (YouTube) - https://youtu.be/TRPUj6DNTk4
